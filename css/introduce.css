@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'WAGURITTF';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/2403@1.0/WAGURITTF.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GrandifloraOne-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_JAMO@1.0/GrandifloraOne-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+header{
+    margin-top: 0px;
+    padding-top: 0px;
+    top: 0px;
+}
+body{
+    background-color: #3e3e3e;
+
+    margin: 0px;
+}
+img{
+    margin-top: 20px;
+    margin-left: 15px;
+    border-radius: 20px;
+    width: 320px;
+    height: 500px;
+    float: left;
+}
+.nav{
+    background-color: #fe9519;
+    height: 80px;
+    align-content: center;
+}
+h1{
+    font-family: WAGURITTF;
+    margin-left: 20px;
+    margin-top: 25px;
+    margin-bottom: 0px;
+}
+h3{
+    font-family: 'GrandifloraOne-Regular';
+    line-height: 50px;
+    top: 0px;
+    margin-top: 150px;
+    margin-left: 350px;
+    color: white;
+    font-size: 25px;
+}
+.kaulogo{
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 80px;
+    height: 80px;
+}
